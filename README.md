@@ -17,3 +17,4 @@ $ quasar build
 # lint code
 $ quasar lint
 ```
+# file-upload-quasar
